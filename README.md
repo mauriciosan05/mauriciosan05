@@ -1,6 +1,6 @@
 # Olá, sou o Mauricio 👋
 
-Desenvolvedor de software em formação focado em backend, cursando Análise e Desenvolvimento de Sistemas no IFSP (São Carlos-SP). Curto a parte de arquitetura e lógica por trás de um sistema. Meu foco é arquitetura de backend: modelar os dados, expor APIs REST limpas e colocar tudo pra rodar em produção, não só funcionando na minha máquina.
+Desenvolvedor de software em formação focado em backend, cursando Análise e Desenvolvimento de Sistemas no IFSP (São Carlos-SP). Curto a parte de arquitetura e lógica por trás de um sistema. Meu foco é arquitetura de backend e colocar tudo pra rodar em produção, não só funcionando na minha máquina.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciosalmeida)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:mauricio.alme143@gmail.com)
