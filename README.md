@@ -32,13 +32,6 @@ Desenvolvedor de software em formação focado em backend, cursando Análise e D
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats-psi-six-36.vercel.app/api?username=mauriciosan05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-psi-six-36.vercel.app/api/top-langs/?username=mauriciosan05&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
-
----
-
 ## Atividade
 
 <picture>
