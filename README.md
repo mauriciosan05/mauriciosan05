@@ -9,7 +9,7 @@ Desenvolvedor de software em formação focado em backend, cursando Análise e D
 
 ## Minhas Tecnologias
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" height="50"/><br/><sub>Java</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><sub>Spring</sub></td>
@@ -18,15 +18,12 @@ Desenvolvedor de software em formação focado em backend, cursando Análise e D
 <td align="center"><img src="https://skillicons.dev/icons?i=c" height="50"/><br/><sub>C</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="50"/><br/><sub>PostgreSQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="50"/><br/><sub>SQLite</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="50"/><br/><sub>Flask</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="50"/><br/><sub>AWS</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="50"/><br/><sub>Docker</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" height="50"/><br/><sub>Git</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" height="50"/><br/><sub>GitHub</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="50"/><br/><sub>Actions</sub></td>
-<td></td>
 </tr>
 </table>
 
